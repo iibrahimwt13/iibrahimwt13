@@ -15,7 +15,10 @@ ___
 
 #
 
-[![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)]()
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc> 
+    <h2 align="center">⚡..ZeuS..⚡</h2>
 
 ___
 
